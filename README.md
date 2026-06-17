@@ -1,4 +1,13 @@
-## Hi there 👋
+Hello, I am Aayush Kumar
+
+Class 12 student interested in:
+- Artificial Intelligence
+- Computer Science 
+- Physics
+- Mathematics
+
+Work in Progress:
+Computational Analysis of Newtonian and Relativistic Gravitational Potentials: From Analytical Models to Machine Learning Approximations
 
 <!--
 **Dev-Aayush-Kumar/Dev-Aayush-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
