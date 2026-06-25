@@ -1,25 +1,29 @@
-Hello, I am Aayush Kumar
+# Hello, I'm Aayush Kumar
 
-Class 12 student interested in:
+Class 12 student with interests in:
+
 - Artificial Intelligence
-- Computer Science 
-- Physics
+- Computational Physics
+- Computer Science
 - Mathematics
 
-Work in Progress:
-Computational Analysis of Newtonian and Relativistic Gravitational Potentials: From Analytical Models to Machine Learning Approximations
+## Research
 
-<!--
-**Dev-Aayush-Kumar/Dev-Aayush-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning Assisted Analysis of a Static Relativistic Gravitational Potential:
+### A Comparative Study with Newtonian Approximation and Error Quantification
 
-Here are some ideas to get you started:
+Independent research project combining:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analytical gravitational physics
+- Computational modelling
+- Numerical error analysis
+- Machine learning regression techniques
+
+The project investigates the limitations of Newtonian gravity by comparing it with a static relativistic gravitational potential model and explores the use of machine learning for predicting relativistic corrections.
+
+Repository:
+https://github.com/Dev-Aayush-Kumar/computational-gravity-ml
+
+---
+
+Currently exploring the intersection of Artificial Intelligence with multiple fields such as physics(scientific computing) and e-commerce(next planned project under progress).
