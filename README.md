@@ -9,7 +9,7 @@ Class 12 student with interests in:
 
 ## Research
 
-###Computational Analysis of Newtonian vs Relativistic Gravitational Potentials: Error Quantification and Machine Learning Approximations
+### Computational Analysis of Newtonian vs Relativistic Gravitational Potentials: Error Quantification and Machine Learning Approximations
 Independent research project combining:
 
 - Analytical gravitational physics
